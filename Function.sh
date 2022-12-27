@@ -11,3 +11,6 @@ main program
 a=10
 Sample xyz
 echo b - $b
+
+#echo -e "\e[32mdisable MYSQL 8 version repo\e[0m"
+#echo disable MYSQL 8 version repo
