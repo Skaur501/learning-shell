@@ -5,7 +5,7 @@ Sample() {
   #b=20
 }
 
-#main program
+main program
 a=10
 Sample
-#echo b - $b
+echo b - $b
