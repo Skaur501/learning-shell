@@ -7,5 +7,5 @@ Sample() {
 
 #main program
 a=10
-SAMPLE
+Sample
 #echo b - $b
